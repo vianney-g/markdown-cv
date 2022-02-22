@@ -9,7 +9,9 @@ Software crafter 🛠️, Python developer 🐍.
 <a href="vianneygremmel@gmail.com">vianneygremmel@gmail.com</a>
 </div>
 
-I want to develop great software solution, aiming for excellence. I'm a crafter at heart ; TDD, mob programming, humility are my rules. I'm looking for a team where we can learn and improve together.
+## Goal
+
+**I want to develop great software solution, aiming for excellence. I'm a crafter at heart ; TDD, mob programming, humility are my rules. I'm looking for a team where we can learn and improve together.**
 
 ## Professional experiences
 
@@ -43,7 +45,7 @@ I want to develop great software solution, aiming for excellence. I'm a crafter 
 
 ## Blogs
 
-[My experience as a volonteer (VSI - Volontaire de solidarité internationale](https://lacatiche.wordpress.com/)
+[My experience as a volonteer (VSI - Volontaire de solidarité internationale)](https://lacatiche.wordpress.com/)
 
 [A 3 months walk across France and Spain, from Sens to Santiago](https://lacatiche2.wordpress.com/)
 
