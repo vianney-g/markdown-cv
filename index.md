@@ -52,7 +52,10 @@ Software crafter 🛠️, Python developer 🐍.
 
 ## Misc
 
+
 👪 Husband & father (3 children).
+
+🐍 Python mentor for openclassrooms
 
 🚗 Driving License.
 
