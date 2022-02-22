@@ -1,91 +1,63 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vianney Gremmel's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Vianney Gremmel
+Software crafter 🛠️, Python developer 🐍.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="vianneygremmel@gmail.com">vianneygremmel@gmail.com</a>
 </div>
 
+I want to develop great software solution, aiming for excellence. I'm a crafter at heart ; TDD, mob programming, humility are my rules. I'm looking for a team where we can learn and improve together.
 
-## Currently
+## Professional experiences
 
-Standing on the shoulders of giants
+### From 2018-04 -- currently, Lengow (Nante, France)
 
-### Specialized in
+**Python senior developer**. #Python #Postgresql #Django #FastAPI # k8s
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### From 2015-12 to 2018-04, SII (Nantes, France)
 
+**PHP developer**. SNCF carpooling solution. #PHP #Zend
 
-### Research interests
+**Python developer**. Thales. Writing test framework. #electronicWar #Python
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### From 2014-04 to 2015-11, Outscale (Saint Cloud, France)
 
+**Python developer**. Development of an AWS compatible cloud orchestrator. #EC2 #IAM #Python
 
-## Education
+### From 2013-02 to 2014-04, Webnet (Sèvres, France)
 
-`1654-1660`
-__The King's School, Grantham.__
+**Developer** for a lot of websites & solution. #PHP #Symfony #perl
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### From 2010-09 to 2012-09, CEFOD (N'djaména, Chad)
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+**Developer** putting online Chadian legislation and case law. #PHP #Symfony #Python
 
 
 
-## Awards
+## Blogs
 
-`2012`
-President, *Royal Society*, London, UK
+[My experience as a volonteer (VSI - Volontaire de solidarité internationale](https://lacatiche.wordpress.com/)
 
-Associate, *French Academy of Science*, Paris, France
-
+[A 3 months walk across France and Spain, from Sens to Santiago](https://lacatiche2.wordpress.com/)
 
 
-## Publications
+## Misc
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+👪 Husband & father (3 children).
 
-### Journals
+🚗 Driving License.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+📚 Book lover.
 
-`1669`
-Lectiones opticæ.
+🚶‍♂️ Big trips (Trans-Siberian Railway, long distance walker, 2 years in Chad, road trip in Mexico...).
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+🇬🇧 💻 Technical English. 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2022 -->
 
 
