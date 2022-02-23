@@ -35,7 +35,7 @@ Software crafter 🛠️, Python developer 🐍.
 
 ### From 2013-02 to 2014-04, Webnet (Sèvres, France)
 
-**Developer** for a lot of websites & solution. #PHP #Symfony #perl
+**Developer** for a lot of websites & solutions. #PHP #Symfony #perl
 
 ### From 2010-09 to 2012-09, CEFOD (N'djaména, Chad)
 
