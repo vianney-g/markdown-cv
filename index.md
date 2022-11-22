@@ -13,9 +13,13 @@ I want to develop great software solution, aiming for excellence. I'm a crafter 
 
 ## Professional experiences
 
-### From 2018-04 -- currently, Lengow (Nantes, France)
+### From 2021-06 -- Alma, (Paris, France), remote
 
-**Python senior developer**. #Python #Postgresql #Django #FastAPI # k8s
+**Python senior developer**. #Python #Postgresql #FastAPI
+
+### From 2018-04 to 2021-05 -- Lengow (Nantes, France)
+
+**Python senior developer**. #Python #Postgresql #Django #FastAPI #k8s
 
 ### From 2015-12 to 2018-04, SII (Nantes, France)
 
