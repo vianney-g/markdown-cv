@@ -11,7 +11,7 @@ Software crafter 🛠️, Python developer 🐍.
 
 ## Goal
 
-**I want to develop great software solution, aiming for excellence. I'm a crafter at heart ; TDD, mob programming, humility are my rules. I'm looking for a team where we can learn and improve together.**
+**I want to develop great software solutions, aiming for excellence. I'm a crafter at heart; TDD, mob programming, and humility are my rules. I'm looking for a team where we can learn and improve together.**
 
 ## Professional experiences
 
@@ -31,7 +31,7 @@ Software crafter 🛠️, Python developer 🐍.
 
 ### From 2014-04 to 2015-11, Outscale (Saint Cloud, France)
 
-**Python developer**. Development of an AWS compatible cloud orchestrator. #EC2 #IAM #Python
+**Python developer**. Development of an AWS-compatible cloud orchestrator. #EC2 #IAM #Python
 
 ### From 2013-02 to 2014-04, Webnet (Sèvres, France)
 
@@ -47,13 +47,13 @@ Software crafter 🛠️, Python developer 🐍.
 
 [My experience as a volonteer (VSI - Volontaire de solidarité internationale)](https://lacatiche.wordpress.com/)
 
-[A 3 months walk across France and Spain, from Sens to Santiago](https://lacatiche2.wordpress.com/)
+[A 3 month walk across France and Spain, from Sens to Santiago](https://lacatiche2.wordpress.com/)
 
 
 ## Misc
 
 
-👪 Husband & father (3 children).
+👪 Husband & father (4 children).
 
 🐍 Python mentor for openclassrooms
 
@@ -61,7 +61,7 @@ Software crafter 🛠️, Python developer 🐍.
 
 📚 Book lover.
 
-🚶‍♂️ Big trips (Trans-Siberian Railway, long distance walker, 2 years in Chad, road trip in Mexico...).
+🚶‍♂️ Big trips (Trans-Siberian Railway, long-distance walker, 2 years in Chad, road trip in Mexico...).
 
 🇬🇧 💻 Technical English. 
 
